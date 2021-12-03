@@ -1,0 +1,678 @@
+{
+  "devicemodels": [
+    {
+      "modelId": "SAU2AG1_GW",
+      "deviceLayout": "SAU2AG1_GW",
+      "categoryIdForAddDevice": "1",
+      "defaultName": "GateWay",
+      "isExpandable": false
+    },
+    {
+      "modelId": "ST880ZB",
+      "deviceLayout": "Thermostat_ST880ZB",
+      "categoryIdForAddDevice": "3",
+      "defaultName": "Thermostat",
+      "isExpandable": true
+    },
+    {
+      "modelId": "ST880ZBPB",
+      "deviceLayout": "Thermostat_ST880ZBPB",
+      "categoryIdForAddDevice": "3",
+      "defaultName": "Thermostat",
+      "isExpandable": true
+    },
+    {
+      "modelId": "ST898ZBR",
+      "deviceLayout": "Thermostat_ST898ZBR",
+      "isExpandable": true
+    },
+    {
+      "modelId": "ST898ZB",
+      "deviceLayout": "Thermostat_ST898ZB",
+      "categoryIdForAddDevice": "3",
+      "defaultName": "Thermostat",
+      "isExpandable": true
+    },
+    {
+      "modelId": "AWRT10RF",
+      "deviceLayout": "Thermostat_AWRT10RF",
+      "categoryIdForAddDevice": "3",
+      "defaultName": "Wireless Radiant Thermostat",
+      "isExpandable": true
+    },
+    {
+      "modelId": "it600ThermHW",
+      "deviceLayout": "Thermostat_it600ThermHW",
+      "categoryIdForAddDevice": "12",
+      "defaultName": "Thermostat",
+      "isExpandable": true
+    },
+    {
+      "modelId": "it600ThermHWAC",
+      "deviceLayout": "Thermostat_it600ThermHWAC",
+      "categoryIdForAddDevice": "12",
+      "defaultName": "Thermostat",
+      "isExpandable": true
+    },
+    {
+      "modelId": "iT600ThermHW-AC",
+      "deviceLayout": "Thermostat",
+      "isExpandable": true
+    },
+    {
+      "modelId": "SQ610",
+      "deviceLayout": "Thermostat_sq610",
+      "categoryIdForAddDevice": "13",
+      "defaultName": "Thermostat",
+      "isExpandable": true
+    },
+    {
+      "modelId": "SQ610RF",
+      "deviceLayout": "Thermostat_sq610rf",
+      "categoryIdForAddDevice": "13",
+      "defaultName": "Thermostat",
+      "isExpandable": true
+    },
+    {
+      "modelId": "SQ610WB",
+      "deviceLayout": "Thermostat_Sq610_wb",
+      "categoryIdForAddDevice": "13",
+      "defaultName": "Thermostat",
+      "isExpandable": true
+    },
+    {
+      "modelId": "SQ610RFWB",
+      "deviceLayout": "Thermostat_Sq610rf_wb",
+      "categoryIdForAddDevice": "13",
+      "defaultName": "Thermostat",
+      "isExpandable": true
+    },
+    {
+      "modelId": "AVA10M30RF",
+      "deviceLayout": "TRV",
+      "isExpandable": false
+    },
+    {
+      "modelId": "it600MINITRV",
+      "deviceLayout": "TRV_iT600Mini",
+      "categoryIdForAddDevice": "11",
+      "defaultName": "iT600 Mini TRV",
+      "isExpandable": false
+    },
+    {
+      "modelId": "ava10M30RF",
+      "deviceLayout": "TRV_ava10m30rf",
+      "categoryIdForAddDevice": "11",
+      "defaultName": "iT600 Mini TRV",
+      "isExpandable": false
+    },
+    {
+      "modelId": "SP600",
+      "deviceLayout": "Smart_Plug_Sp600",
+      "categoryIdForAddDevice": "7",
+      "isExpandable": false
+    },
+    {
+      "modelId": "SPE600",
+      "deviceLayout": "Smart_Plug_Spe600",
+      "categoryIdForAddDevice": "7",
+      "isExpandable": false
+    },
+    {
+      "modelId": "CTLP631",
+      "deviceLayout": "Smart_Plug_Ctlp631",
+      "categoryIdForAddDevice": "7",
+      "isExpandable": false
+    },
+    {
+      "modelId": "CTLP632",
+      "deviceLayout": "Smart_Plug_Ctlp632",
+      "categoryIdForAddDevice": "7",
+      "isExpandable": false
+    },
+    {
+      "modelId": "SX885ZB",
+      "deviceLayout": "Smart_Plug_Sx885zb",
+      "categoryIdForAddDevice": "7",
+      "isExpandable": false
+    },
+    {
+      "modelId": "SC101ZB",
+      "deviceLayout": "Thermostat_SC101ZB",
+      "isExpandable": true
+    },
+    {
+      "modelId": "SC102ZB",
+      "deviceLayout": "Thermostat_SC102ZB",
+      "isExpandable": false
+    },
+    {
+      "modelId": "ST103ZB",
+      "deviceLayout": "Thermostat_SC103ZB",
+      "isExpandable": false
+    },
+    {
+      "modelId": "iT600HW ",
+      "deviceLayout": "Thermostat",
+      "isExpandable": false
+    },
+    {
+      "modelId": "iT600HW-AC",
+      "deviceLayout": "layout2",
+      "isExpandable": false
+    },
+    {
+      "modelId": "RE600-1",
+      "deviceLayout": "Repeater_RE600-1",
+      "isExpandable": false
+    },
+    {
+      "modelId": "SS881ZB",
+      "deviceLayout": "Sensors_SS881ZB",
+      "isExpandable": false
+    },
+    {
+      "modelId": "OS600",
+      "deviceLayout": "Window_Sensors_OS600",
+      "defaultName": "Window Sensor",
+      "categoryIdForAddDevice": "9",
+      "isExpandable": false
+    },
+    {
+      "modelId": "SS882ZB",
+      "deviceLayout": "Window_Sensors_SS882ZB",
+      "defaultName": "Window Sensor",
+      "categoryIdForAddDevice": "9",
+      "isExpandable": false
+    },
+    {
+      "modelId": "SS912ZB",
+      "deviceLayout": "Window_Sensors_SS912ZB",
+      "defaultName": "Window Sensor",
+      "categoryIdForAddDevice": "9",
+      "isExpandable": false
+    },
+    {
+      "modelId": "SR600",
+      "deviceLayout": "Smart_Relay_Sr600",
+      "isExpandable": false
+    },
+    {
+      "modelId": "SC824ZB",
+      "deviceLayout": "Sensors",
+      "isExpandable": false
+    },
+    {
+      "modelId": "SS901ZB",
+      "deviceLayout": "Sensors",
+      "isExpandable": false
+    },
+    {
+      "modelId": "SS901ZB",
+      "deviceLayout": "Sensors",
+      "isExpandable": false
+    },
+    {
+      "modelId": "RS600",
+      "deviceLayout": "Sensors",
+      "isExpandable": false
+    },
+    {
+      "modelId": "NTVS41",
+      "deviceLayout": "Thermostat_ntvs41",
+      "categoryIdForAddDevice": "12",
+      "defaultName": "Thermostat",
+      "isExpandable": true
+    },
+    {
+      "modelId": "NTVS41HW",
+      "deviceLayout": "Thermostat_ntvs41hw",
+      "categoryIdForAddDevice": "12",
+      "defaultName": "Thermostat",
+      "isExpandable": true
+    },
+    {
+      "modelId": "TS600",
+      "deviceLayout": "Thermostat_ts600",
+      "categoryIdForAddDevice": "12",
+      "defaultName": "Thermostat",
+      "isExpandable": true
+    },
+    {
+      "modelId": "TS600HW",
+      "deviceLayout": "Thermostat_ts600hw",
+      "categoryIdForAddDevice": "12",
+      "defaultName": "Thermostat",
+      "isExpandable": true
+    },
+    {
+      "modelId": "HTR_RF_20_",
+      "deviceLayout": "Thermostat_htrrf20",
+      "categoryIdForAddDevice": "12",
+      "defaultName": "Thermostat",
+      "isExpandable": true
+    },
+    {
+      "modelId": "HTRP_RF_50_",
+      "deviceLayout": "Thermostat_htrprf50",
+      "categoryIdForAddDevice": "12",
+      "defaultName": "Thermostat",
+      "isExpandable": true
+    },
+    {
+      "modelId": "HTRS_RF_30_",
+      "deviceLayout": "Thermostat_htrsrf30",
+      "categoryIdForAddDevice": "12",
+      "defaultName": "Thermostat",
+      "isExpandable": true
+    },
+    {
+      "modelId": "A60_TW_Z3",
+      "deviceLayout": "Common_Light",
+      "categoryIdForAddDevice": "14",
+      "defaultName": "Light A60_TW_Z3",
+      "isExpandable": false
+    },
+    {
+      "modelId": "PAR16_TW_Z3",
+      "deviceLayout": "Common_Light",
+      "categoryIdForAddDevice": "14",
+      "defaultName": "Light PAR16_TW_Z3",
+      "isExpandable": false
+    },
+    {
+      "modelId": "FLEX_RGBW_Z3",
+      "deviceLayout": "Common_Light",
+      "categoryIdForAddDevice": "14",
+      "defaultName": "Light FLEX_RGBW_Z3",
+      "isExpandable": false
+    },
+    {
+      "modelId": "B40_TW_Z3",
+      "deviceLayout": "Common_Light",
+      "categoryIdForAddDevice": "14",
+      "defaultName": "Light B40_TW_Z3",
+      "isExpandable": false
+    },
+    {
+      "modelId": "B40_DIM_Z3",
+      "deviceLayout": "Common_Light",
+      "categoryIdForAddDevice": "14",
+      "defaultName": "Light B40_DIM_Z3",
+      "isExpandable": false
+    },
+    {
+      "modelId": "CLA60_RGBW_OSRAM",
+      "deviceLayout": "Common_Light",
+      "categoryIdForAddDevice": "14",
+      "defaultName": "Light CLA60_RGBW_OSRAM",
+      "isExpandable": false
+    },
+    {
+      "modelId": "Classic_A60_W_clear___LIGHTIFY",
+      "deviceLayout": "Common_Light",
+      "categoryIdForAddDevice": "14",
+      "defaultName": "Light Classic_A60_W_clear___LIGHTIFY",
+      "isExpandable": false
+    },
+    {
+      "modelId": "PAR16_DIM_Z3",
+      "deviceLayout": "Common_Light",
+      "categoryIdForAddDevice": "14",
+      "defaultName": "Light PAR16_DIM_Z3",
+      "isExpandable": false
+    },
+    {
+      "modelId": "PAR16_RGBW_Z3",
+      "deviceLayout": "Common_Light",
+      "categoryIdForAddDevice": "14",
+      "defaultName": "Light PAR16_RGBW_Z3",
+      "isExpandable": false
+    },
+    {
+      "modelId": "Tibea_TW_Z3",
+      "deviceLayout": "Common_Light",
+      "categoryIdForAddDevice": "14",
+      "defaultName": "Light Tibea_TW_Z3",
+      "isExpandable": false
+    },
+    {
+      "modelId": "MR16_TW_OSRAM",
+      "deviceLayout": "Common_Light",
+      "categoryIdForAddDevice": "14",
+      "defaultName": "Light MR16_TW_OSRAM",
+      "isExpandable": false
+    },
+    {
+      "modelId": "Outdoor_FLEX_RGBW_Z3",
+      "deviceLayout": "Common_Light",
+      "categoryIdForAddDevice": "14",
+      "defaultName": "Light Outdoor_FLEX_RGBW_Z3",
+      "isExpandable": false
+    },
+    {
+      "modelId": "NTSQ605RF",
+      "deviceLayout": "Thermostat_ntsq605rf",
+      "categoryIdForAddDevice": "15",
+      "defaultName": "Thermostat",
+      "isExpandable": true
+    },
+    {
+      "modelId": "ALTHCSQ605RF",
+      "deviceLayout": "Thermostat_althcsq605rf",
+      "categoryIdForAddDevice": "15",
+      "defaultName": "Thermostat",
+      "isExpandable": true
+    },
+    {
+      "modelId": "AJSQ605RF",
+      "deviceLayout": "Thermostat_ajsq605rf",
+      "categoryIdForAddDevice": "15",
+      "defaultName": "Thermostat",
+      "isExpandable": true
+    },
+    {
+      "modelId": "SQ605RF_WB_",
+      "deviceLayout": "Thermostat_sq605rfwb",
+      "categoryIdForAddDevice": "15",
+      "defaultName": "Thermostat",
+      "isExpandable": true
+    }
+  ],
+  "categories": [
+    {
+      "CategoryId": "0",
+      "CategoryName": "General Devices",
+      "Models": [
+
+      ]
+    },
+    {
+      "CategoryId": "1",
+      "CategoryName": "Gateways",
+      "Models": [
+        {
+          "ModelId": "SAU2AG1_GW"
+        }
+      ]
+    },
+    {
+      "CategoryId": "2",
+      "CategoryName": "Hot Water Timers",
+      "Models": [
+
+      ]
+    },
+    {
+      "CategoryId": "3",
+      "CategoryName": "Thermostats",
+      "Models": [
+        {
+          "ModelId": "ST898ZB"
+        },
+        {
+          "ModelId": "ST880ZB"
+        },
+        {
+          "ModelId": "ST880ZBPB"
+        },
+        {
+          "ModelId": "AWRT10RF"
+        }
+      ]
+    },
+    {
+      "CategoryId": "4",
+      "CategoryName": "Smart Relays",
+      "Models": [
+        {
+          "ModelId": "SR600"
+        }
+      ]
+    },
+    {
+      "CategoryId": "5",
+      "CategoryName": "Water Leak Sensors",
+      "Models": [
+
+      ]
+    },
+    {
+      "CategoryId": "6",
+      "CategoryName": "Wireless Uncontrollable Devices",
+      "Models": [
+
+      ]
+    },
+    {
+      "CategoryId": "7",
+      "CategoryName": "SmartPlug",
+      "Models": [
+        {
+          "ModelId": "SX885ZB"
+        },
+        {
+          "ModelId": "SP600"
+        },
+        {
+          "ModelId": "SPE600"
+        },
+        {
+          "ModelId": "CTLP631"
+        },
+        {
+          "ModelId": "CTLP632"
+        }
+      ]
+    },
+    {
+      "CategoryId": "8",
+      "CategoryName": "Receiver",
+      "Models": [
+
+      ]
+    },
+    {
+      "CategoryId": "9",
+      "CategoryName": "Window Monitors",
+      "Models": [
+        {
+          "ModelId": "SS882ZB"
+        },
+        {
+          "ModelId": "OS600"
+        },
+        {
+          "ModelId": "SS912ZB"
+        }
+      ]
+    },
+    {
+      "CategoryId": "10",
+      "CategoryName": "Remote Temperature Sensors",
+      "Models": [
+        {
+          "ModelId": "SS909ZB"
+        }
+      ]
+    },
+    {
+      "CategoryId": "11",
+      "CategoryName": "TRV",
+      "Models": [
+        {
+          "ModelId": "it600MINITRV"
+        },
+        {
+          "ModelId": "ava10M30RF"
+        }
+      ]
+    },
+    {
+      "CategoryId": "12",
+      "CategoryName": "iT600 Thermostats",
+      "Models": [
+        {
+          "ModelId": "it600ThermHW"
+        },
+        {
+          "ModelId": "it600ThermHWAC"
+        },
+        {
+          "ModelId": "NTVS41"
+        },
+        {
+          "ModelId": "NTVS41HW"
+        },
+        {
+          "ModelId": "TS600"
+        },
+        {
+          "ModelId": "TS600HW"
+        },
+        {
+          "ModelId": "HTR_RF_20_"
+        },
+        {
+          "ModelId": "HTRP_RF_50_"
+        },
+        {
+          "ModelId": "HTRS_RF_30_"
+        }
+      ]
+    },
+    {
+      "CategoryId": "13",
+      "CategoryName": "Quantum Thermostats",
+      "Models": [
+        {
+          "ModelId": "SQ610"
+        },
+        {
+          "ModelId": "SQ610RF"
+        },
+        {
+          "ModelId": "SQ610WB"
+        },
+        {
+          "ModelId": "SQ610RFWB"
+        }
+      ]
+    },
+    {
+      "CategoryId": "15",
+      "CategoryName": "Dial RF Thermostats",
+      "Models": [
+        {
+          "ModelId": "NTSQ605RF"
+        },
+        {
+          "ModelId": "ALTHCSQ605RF"
+        },
+        {
+          "ModelId": "AJSQ605RF"
+        },
+        {
+          "ModelId": "SQ605RF_WB_"
+        }
+      ]
+    },
+    {
+      "CategoryId": "14",
+      "CategoryName": "Light",
+      "Models": [
+        {
+          "ModelId": "A60_TW_Z3"
+        },
+        {
+          "ModelId": "B40_TW_Z3"
+        },
+        {
+          "ModelId": "B40_DIM_Z3"
+        },
+        {
+          "ModelId": "CLA60_RGBW_OSRAM"
+        },
+        {
+          "ModelId": "Classic_A60_W_clear___LIGHTIFY"
+        },
+        {
+          "ModelId": "PAR16_DIM_Z3"
+        },
+        {
+          "ModelId": "PAR16_RGBW_Z3"
+        },
+        {
+          "ModelId": "PAR16_TW_Z3"
+        },
+        {
+          "ModelId": "Tibea_TW_Z3"
+        },
+        {
+          "ModelId": "FLEX_RGBW_Z3"
+        },
+        {
+          "ModelId": "MR16_TW_OSRAM"
+        },
+        {
+          "ModelId": "Outdoor_FLEX_RGBW_Z3"
+        }
+      ]
+    }
+  ],
+  "menu_direction": "R",
+  "progressIndicatorColor": "0xFFFFFFFF",
+  "dashboardBackGroundColor": "0xFF09487A",
+  "dashboardSettingBackGroundDarkColor": "0xFF09385F",
+  "dashboardSettingIconColor": "0xFFFFFFFF",
+  "dashboardGridHorizontalPadding": 8.0,
+  "dashboardDotsIndicatorActiveColor": "0xFFFFFFFF",
+  "dashboardDotsIndicatorInActiveColor": "0x80FFFFFF",
+  "dashboardWelcomeTitleColor": "0xFFFFFFFF",
+  "dashboardWelcomeDescriptionColor": "0xFFFFFFFF",
+  "build_date": "November 12, 2021",
+  "released": "November 12, 2021",
+  "oneTouch": true,
+  "device_mode_colors": {
+    "heating": "0xFFFF9800",
+    "cooling": "0xFF00ACD0",
+    "offline": "0xFF777777",
+    "online": "0xFF58A708",
+    "auto": "0xFF4CAF50",
+    "gradientHeating": {
+      "angle": 135,
+      "colors": [
+        "0xFFFF8F00",
+        "0xFFFF7300"
+      ]
+    },
+    "gradientCooling": {
+      "angle": 135,
+      "colors": [
+        "0xFF00C1DD",
+        "0xFF00ACD0"
+      ]
+    },
+    "gradientOffline": {
+      "angle": 135,
+      "colors": [
+        "0xFFBFBFBF",
+        "0xFF777777"
+      ]
+    },
+    "gradientOnline": {
+      "angle": 135,
+      "colors": [
+        "0xFF7CC110",
+        "0xFF58A708"
+      ]
+    },
+    "gradientAuto": {
+      "angle": 135,
+      "colors": [
+        "0xFF7CC110",
+        "0xFF58A708"
+      ]
+    }
+  }
+}

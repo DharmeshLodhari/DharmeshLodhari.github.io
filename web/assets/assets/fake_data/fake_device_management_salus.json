@@ -1,0 +1,97 @@
+{
+  "gateways": [
+    {
+      "GatewayID": "SAU2AG1_GW-001E5E018F0C",
+      "CategoryID": "1",
+      "UserGatewayAttributesId": "us-west-2:6c39ed4c-98b3-4ed1-9cdd-ac9d50c172b7SAU2AG1_GW-001E5E018F0C",
+      "Pin": true,
+      "users": [
+        {
+          "UserEmail": "nalasalus@yopmail.com",
+          "AccessLevel": "O",
+          "SharedBy": null,
+          "IsTempAccess": false,
+          "UserPermissionsId": "5d2e1bf4-c2a9-44e2-afe3-5e72884301e02021-10-25T21:47:27.472889",
+          "TempAccess": null
+        }
+      ],
+      "IsRegistered": true,
+      "IsGrouped": false,
+      "GridOrder": 0,
+      "ModelName": "SAU2AG1_GW",
+      "GatewayImage": "https://dhnlv5uyhh1rm.cloudfront.net/default_gateway_image.jpg",
+      "GatewayStatus": [],
+      "details": {
+        "Name": "Mn",
+        "CoOrdinatorID": "SAU2AG1_GW-001E5E018F0C-SAU2AG1_ZC-001E5E09021777DB",
+        "Country": "Australia",
+        "HourFormat": "12:00",
+        "IsLedModeOn": true,
+        "Address": "Home",
+        "City": "Dahod",
+        "PostCode": "389151"
+      },
+      "groups": [],
+      "devices": [
+        {
+          "DeviceID": "SAU2AG1_GW-001E5E0082CA-SQ610-001E5E0902594207",
+          "CategoryID": "3",
+          "UserDeviceAttributesId": "eu-central-1:6c2061aa-248a-429f-a26a-cbcddffeab10CTLG630GW-001E5E036D48-CTLT530-001E5E09026B91B1",
+          "ModelName": "SQ610",
+          "DeviceName": "Thermostat - SQ610",
+          "Pin": true,
+          "IsRegistered": true,
+          "GridOrder": 4,
+          "IsGrouped": false
+        }
+      ],
+      "automations": []
+    },
+    {
+      "GatewayID": "SAU2AG1_GW-001E5E00DA7C",
+      "CategoryID": "1",
+      "UserGatewayAttributesId": null,
+      "Pin": true,
+      "users": [
+        {
+          "UserEmail": "swetham7898@yopmail.com",
+          "AccessLevel": "O",
+          "SharedBy": null,
+          "IsTempAccess": false,
+          "UserPermissionsId": "b786c58f-b7a8-4a2e-a028-d25b2a5c2e552021-10-25T16:33:54.480922",
+          "TempAccess": null
+        },
+        {
+          "UserEmail": "nalasalus@yopmail.com",
+          "AccessLevel": "O",
+          "SharedBy": "swetham7898@yopmail.com",
+          "IsTempAccess": false,
+          "UserPermissionsId": "46a60e79-abbd-43b0-8e56-5f57dd9fd8862021-10-25T21:41:40.335408",
+          "TempAccess": null
+        }
+      ],
+      "IsRegistered": true,
+      "IsGrouped": false,
+      "GridOrder": 0,
+      "ModelName": "SAU2AG1_GW",
+      "GatewayImage": "https://dhnlv5uyhh1rm.cloudfront.net/default_gateway_image.jpg",
+      "GatewayStatus": [],
+      "details": {
+        "Name": "Test gateway",
+        "CoOrdinatorID": "SAU2AG1_GW-001E5E00DA7C-SAU2AG1_ZC-001E5E0902134F5B",
+        "Country": "United States",
+        "TimeZone": "(UTC+00:00) London",
+        "HourFormat": "12:00",
+        "IsLedModeOn": true,
+        "Address": "India ",
+        "City": "Bangalore ",
+        "PostCode": "53738"
+      },
+      "groups": [],
+      "devices": [
+
+      ],
+      "automations": []
+    }
+  ]
+}

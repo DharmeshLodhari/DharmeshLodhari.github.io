@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="107px" height="56px" viewBox="0 0 107 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Low_Battery" sketch:type="MSLayerGroup" transform="translate(3.000000, 2.000000)">
+            <g id="Page-1" sketch:type="MSShapeGroup">
+                <g id="Battery_Shell" fill="#78909C">
+                    <path d="M89.65,39.471 L100,39.471 L100,11.538 L89.65,11.538 L89.65,0.157 L0,0.157 L0,50.851 L89.65,50.851 L89.65,39.471 L89.65,39.471 L89.65,39.471 Z M86.104,3.804 L86.104,15.185 L96.453,15.185 L96.453,35.825 L86.104,35.825 L86.104,47.206 L3.547,47.206 L3.547,3.804 L86.104,3.804 L86.104,3.804 L86.104,3.804 Z" id="Shape"></path>
+                </g>
+                <path d="M5,45.721937 L5,5 L27,5.048288 L10.366863,45.721937 L5,45.721937 L5,45.721937 L5,45.721937 Z" id="Shape" fill="#F8E81C"></path>
+            </g>
+        </g>
+    </g>
+</svg>

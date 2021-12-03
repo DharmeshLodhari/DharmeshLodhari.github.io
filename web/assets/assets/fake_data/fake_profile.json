@@ -1,0 +1,22 @@
+{
+  "approved": true,
+  "confirmed": true,
+  "city": null,
+  "company": null,
+  "confirmed_at": "2020-09-05T14:06:46Z",
+  "country": "is",
+  "created_at": "2020-09-05T14:05:35Z",
+  "email": "ashwini.ettigi@hubblehome.com",
+  "firstname": "Purmo",
+  "lastname": "Connected",
+  "phone_country_code": "353",
+  "phone": null,
+  "primary_contact": "email",
+  "state": null,
+  "street": null,
+  "updated_at": "2021-04-05T12:11:55Z",
+  "username": "ashwini.ettigi@hubblehome.com",
+  "uuid": "de49cd94-ef80-11ea-b254-0a580ae9040b",
+  "zip": null,
+  "dealers": []
+}

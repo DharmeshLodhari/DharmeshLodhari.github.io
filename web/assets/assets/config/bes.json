@@ -1,0 +1,31 @@
+{
+  "devicemodels": [
+    {
+      "modelId": "1234",
+      "deviceLayout": "layout1",
+      "iot": "AWS"
+    },
+    {
+      "modelId": "1234",
+      "deviceLayout": "layout2",
+      "iot": "AWS"
+    },
+    {
+      "modelId": "1234",
+      "deviceLayout": "layout1",
+      "iot": "AWS"
+    },
+    {
+      "modelId": "1234",
+      "deviceLayout": "layout2",
+      "iot": "AWS"
+    }
+  ],
+  "menu_direction": "L",
+  "build_date": "April 07, 2021",
+  "released": "April 07, 2021"
+
+}
+
+
+

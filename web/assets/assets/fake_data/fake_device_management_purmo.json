@@ -1,0 +1,141 @@
+{
+  "gateways": [
+    {
+      "GatewayID": "CTLG630GW-001E5E036D48",
+      "CategoryID": "1",
+      "UserGatewayAttributesId": "eu-central-1:6c2061aa-248a-429f-a26a-cbcddffeab10CTLG630GW-001E5E036D48",
+      "Pin": true,
+      "users": [
+        {
+          "UserEmail": "swetha.m@ctiotsolution.com",
+          "AccessLevel": "O",
+          "SharedBy": null,
+          "IsTempAccess": false,
+          "UserPermissionsId": "85669f9a-e920-44a9-8399-a1b9ab0dd9252021-08-02T13:35:28.952899",
+          "TempAccess": null
+        },
+        {
+          "UserEmail": "harish.kandekar@5gencare.com",
+          "AccessLevel": "O",
+          "SharedBy": "swetha.m@ctiotsolution.com",
+          "IsTempAccess": false,
+          "UserPermissionsId": "01948b66-c6a2-4870-830b-1eee8f76cdfe2021-08-03T11:06:41.358599",
+          "TempAccess": null
+        },
+        {
+          "UserEmail": "swetha.m+family2@ctiotsolution.com",
+          "AccessLevel": "F",
+          "SharedBy": "swetha.m@ctiotsolution.com",
+          "IsTempAccess": false,
+          "UserPermissionsId": "4d1d89c5-5104-445d-82a1-b39e168a108a2021-08-03T17:10:57.243306",
+          "TempAccess": null
+        },
+        {
+          "UserEmail": "swetha.m+family@ctiotsolution.com",
+          "AccessLevel": "F",
+          "SharedBy": "swetha.m@ctiotsolution.com",
+          "IsTempAccess": true,
+          "UserPermissionsId": "68395d9f-a657-4be7-aa8c-5ba69fa3d7a22021-08-02T20:09:33.187741",
+          "TempAccess": {
+            "TStartDateTime": "2021-08-02T20:08:00.000+05:30",
+            "TEndDateTime": "2021-08-02T20:10:00.000+05:30"
+          }
+        },
+        {
+          "UserEmail": "swetha.m+guest2@ctiotsolution.com",
+          "AccessLevel": "G",
+          "SharedBy": "swetha.m@ctiotsolution.com",
+          "IsTempAccess": false,
+          "UserPermissionsId": "561f0943-e70b-4a29-8136-7837b82095ce2021-08-03T17:11:31.414076",
+          "TempAccess": null
+        },
+        {
+          "UserEmail": "swetha.m+guest@ctiotsolution.com",
+          "AccessLevel": "G",
+          "SharedBy": "swetha.m@ctiotsolution.com",
+          "IsTempAccess": true,
+          "UserPermissionsId": "94008732-b827-4454-b70f-ddc3f968302c2021-08-02T19:56:52.435560",
+          "TempAccess": {
+            "TStartDateTime": "2021-08-02T19:56:00.000+05:30",
+            "TEndDateTime": "2021-08-02T19:58:00.000+05:30"
+          }
+        }
+      ],
+      "IsRegistered": true,
+      "IsGrouped": false,
+      "GridOrder": 3,
+      "ModelName": "CTLG630GW",
+      "GatewayImage": "https://dhnlv5uyhh1rm.cloudfront.net/default_gateway_image.jpg",
+      "GatewayStatus": [],
+      "details": {
+        "Name": "CTLG630 TEST",
+        "CoOrdinatorID": "CTLG630GW-001E5E036D48-CTLG630ZC-001E5E09026AE819",
+        "Country": "Albania",
+        "TimeZone": "(UTC+01:00) Amsterdam",
+        "HourFormat": "12:00",
+        "IsLedModeOn": true,
+        "Address": "test",
+        "City": "bangalore",
+        "PostCode": "560064"
+      },
+      "groups": [
+        {
+          "GroupID": "4de1f3d5-6b7c-4c71-a261-1cf2d4eaf5892021-08-03T23:23:39.797867",
+          "GroupName": "group1 vv",
+          "Pin": false,
+          "DeviceIdList": [
+            "CTLG630GW-001E5E036D48-CTLT530-001E5E09026B91E0"
+          ],
+          "GridOrder": 0
+        }
+      ],
+      "devices": [
+        {
+          "DeviceID": "CTLG630GW-001E5E036D48-CTLR533-001E5E09026CF086",
+          "CategoryID": "8",
+          "UserDeviceAttributesId": "eu-central-1:6c2061aa-248a-429f-a26a-cbcddffeab10CTLG630GW-001E5E036D48-CTLR533-001E5E09026CF086",
+          "ModelName": "CTLR533",
+          "DeviceName": "ctlr",
+          "Pin": true,
+          "IsRegistered": true,
+          "GridOrder": 0,
+          "IsGrouped": false
+        },
+        {
+          "DeviceID": "CTLG630GW-001E5E036D48-CTLT530-001E5E09026B91B1",
+          "CategoryID": "3",
+          "UserDeviceAttributesId": "eu-central-1:6c2061aa-248a-429f-a26a-cbcddffeab10CTLG630GW-001E5E036D48-CTLT530-001E5E09026B91B1",
+          "ModelName": "CTLT530",
+          "DeviceName": "CTLT530 Mode 0",
+          "Pin": true,
+          "IsRegistered": true,
+          "GridOrder": 2,
+          "IsGrouped": false
+        },
+        {
+          "DeviceID": "CTLG630GW-001E5E036D48-CTLT530-001E5E09026B91E0",
+          "CategoryID": "3",
+          "UserDeviceAttributesId": "eu-central-1:6c2061aa-248a-429f-a26a-cbcddffeab10CTLG630GW-001E5E036D48-CTLT530-001E5E09026B91E0",
+          "ModelName": "CTLT530",
+          "DeviceName": "CTLT530",
+          "Pin": true,
+          "IsRegistered": true,
+          "GridOrder": 4,
+          "IsGrouped": false
+        },
+        {
+          "DeviceID": "CTLG630GW-001E5E036DF0-CTLV630-001E5E090265A471",
+          "CategoryID": "3",
+          "UserDeviceAttributesId": "eu-central-1:6c2061aa-248a-429f-a26a-cbcddffeab10CTLG630GW-001E5E036D48-CTLT530-001E5E09026B91E0",
+          "ModelName": "CTLV630",
+          "DeviceName": "CTLV630",
+          "Pin": true,
+          "IsRegistered": true,
+          "GridOrder": 4,
+          "IsGrouped": false
+        }
+      ],
+      "automations": []
+    }
+  ]
+}

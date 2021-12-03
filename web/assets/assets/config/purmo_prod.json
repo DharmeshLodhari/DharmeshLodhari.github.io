@@ -1,0 +1,140 @@
+{
+  "devicemodels": [
+    {
+      "modelId": "PUMG011GW",
+      "deviceLayout": "CTLG630GW",
+      "categoryIdForAddDevice": "1",
+      "defaultName": "GateWay",
+      "isExpandable": false
+    },{
+      "modelId": "PUMG011",
+      "deviceLayout": "CTLG630GW",
+      "categoryIdForAddDevice": "1",
+      "defaultName": "GateWay",
+      "isExpandable": false
+    },
+    {
+      "modelId": "PUMV011",
+      "deviceLayout": "trv_v630",
+      "categoryIdForAddDevice": "11",
+      "defaultName": "Trv",
+      "isExpandable": true
+    },
+    {
+      "modelId": "PUMT031",
+      "deviceLayout": "Thermostat_CTLT530",
+      "categoryIdForAddDevice": "3",
+      "defaultName": "Thermostat",
+      "isExpandable": true
+    },
+    {
+      "modelId": "PUMR011",
+      "deviceLayout": "Receiver_CTLR533",
+      "categoryIdForAddDevice": "8",
+      "defaultName": "Receivers",
+      "isExpandable": false
+    }
+  ],
+  "categories": [
+    {
+      "CategoryId": "0",
+      "CategoryName": "General Devices",
+      "Models": [
+
+      ]
+    },
+    {
+      "CategoryId": "1",
+      "CategoryName": "Gateways",
+      "Models": [
+        {
+          "ModelId": "PUMG011"
+        }
+      ]
+    },
+    {
+      "CategoryId": "3",
+      "CategoryName": "Thermostats",
+      "Models": [
+        {
+          "ModelId": "PUMT031"
+        }
+      ]
+    },
+    {
+      "CategoryId": "8",
+      "CategoryName": "Receivers",
+      "Models": [
+        {
+          "ModelId": "PUMR011"
+        }
+      ]
+    },
+    {
+      "CategoryId": "11",
+      "CategoryName": "TRV",
+      "Models": [
+        {
+          "ModelId": "PUMV011"
+        }
+      ]
+    }
+  ],
+  "menu_direction": "R",
+  "progressIndicatorColor": "0xFFFFFFFF",
+  "dashboardBackGroundColor": "0xFF09487A",
+  "dashboardSettingBackGroundDarkColor": "0xFF09385F",
+  "dashboardSettingIconColor": "0xFFFFFFFF",
+  "dashboardGridHorizontalPadding": 8.0,
+  "dashboardDotsIndicatorActiveColor": "0xFFFFFFFF",
+  "dashboardDotsIndicatorInActiveColor": "0x80FFFFFF",
+  "dashboardWelcomeTitleColor": "0xFFFFFFFF",
+  "dashboardWelcomeDescriptionColor": "0xFFFFFFFF",
+  "build_date": "October 04, 2021",
+  "released": "October 04, 2021",
+  "oneTouch": false,
+  "device_mode_colors": {
+    "heating": "0xFFFF9800",
+    "cooling": "0xFF00ACD0",
+    "offline": "0xFF777777",
+    "online": "0xFF58A708",
+    "auto": "0xFF4CAF50",
+    "gradientHeating": {
+      "angle": 135,
+      "colors": [
+        "0xFFFF8F00",
+        "0xFFFF7300"
+      ]
+    },
+    "gradientCooling": {
+      "angle": 135,
+      "colors": [
+        "0xFF00C1DD",
+        "0xFF00ACD0"
+      ]
+    },
+    "gradientOffline": {
+      "angle": 135,
+      "colors": [
+        "0xFFBFBFBF",
+        "0xFF777777"
+      ]
+    },
+    "gradientOnline": {
+      "angle": 135,
+      "colors": [
+        "0xFF7CC110",
+        "0xFF58A708"
+      ]
+    },
+    "gradientAuto": {
+      "angle": 135,
+      "colors": [
+        "0xFF7CC110",
+        "0xFF58A708"
+      ]
+    }
+  }
+}
+
+
